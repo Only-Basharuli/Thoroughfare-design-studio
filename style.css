@@ -1,0 +1,251 @@
+body{
+    margin: 0;
+    width: 89%;
+}
+
+.fb-insta{
+    position: relative;
+    font-size: 19px;
+    left: 160px;
+    top: 60px;
+}
+
+.fa-instagram{
+    position: relative;
+    left: 20px;
+}
+
+#menu{
+    position: relative;
+    width: 90px;
+    height: 33px;
+    top: 35px;
+    left: 1250px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    background: none;
+    border: 1px solid black;
+    color: #000;
+    cursor: pointer;
+}
+
+#menu:hover{
+    background-color: rgb(70, 41, 9);
+    color: #fff;
+}
+
+#web-logo{
+    position: relative;
+    width: 200px;
+    left: 655px;
+    cursor: pointer;
+}
+
+#background-img{
+    width: 1519px;
+    height: 850px;
+    position: relative;
+    top:20px;
+}
+
+.head-text{
+    height: 0px;
+}
+
+.head-text h1, h4, h5{
+    position: relative;
+    text-align: center;
+    left: 80px;
+    top: -800px;
+    color: #0c0c0c;
+}
+
+.head-text h1{
+    font-size: 35px;
+}
+
+.head-text h5{
+    font-size: 18px;
+}
+
+.content{
+    position: relative;
+    top: -760px;
+}
+
+#item{
+    width: 500px;
+    height: 50px;
+    left: 500px;
+    top: -20px;
+    background: none;
+    position: relative;
+    display: block;
+    border: 2px solid white;
+    color: #fff;
+    cursor: pointer;
+}
+
+#item:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.contents p{
+    width: 42%;
+    top: 100px;
+    left: 150px;
+    position: relative;
+}
+
+.text1{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.contents u{
+    top: -20px;
+    left: 150px;
+    position: relative;
+    cursor: pointer;
+}
+
+.image{
+    width: 120px;
+    top: 180px;
+    right: 110px;
+    margin: 1px;
+    position: relative;
+    cursor: pointer;
+}
+
+.item{
+    width: 585px;
+    height: 460px;
+    top: -300px;
+    left: 760px;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+}
+
+.item h3, h1{
+    top: 40px;
+    position: relative;
+}
+
+.item input{
+    width: 450px;
+    height: 50px;
+    top: 50px;
+    left: 60px;
+    display: block;
+    position: relative;
+    border: 1px solid black;
+}
+
+#fname{
+    text-align: center;
+}
+
+#email{
+    text-align: center;
+}
+
+#botton{
+    background: none;
+    cursor: pointer;
+}
+
+#botton:hover{
+    background-color: #412a11;
+    color: #fff;
+}
+
+.icon input{
+    width: 130px;
+    height: 40px;
+    left: 150px;
+    top: -195px;
+    background: none;
+    position: relative;
+    cursor: pointer;
+}
+
+.icon input:hover{
+    color: #fff;
+    background-color: #412a11;
+}
+
+.icon{
+    position: relative;
+    top: 0px;
+}
+
+#instagram{
+    margin-left: -20px;
+}
+
+#pinterest{
+    margin-left: 10px;
+}
+
+.footer h2{
+    top: -200px;
+    left: 460px;
+    font-size: 13px;
+    position: relative;
+    display: inline;
+    cursor: pointer;
+}
+
+.footer{
+    position: relative;
+    top: -20px;
+}
+
+.text3{
+    margin-left: 50px;
+}
+
+.text4{
+    margin-left: 50px;
+}
+
+.text5{
+    margin-left: 50px;
+}
+
+.text6{
+    margin-left: 50px;
+}
+
+
+.text7{
+    margin-left: 50px;
+}
+
+
+.text8{
+    margin-left: 50px;
+}
+
+.end{
+    width: 1519px;
+    height: 100px;
+    top: -130px;
+    text-align: center;
+    position: relative;
+    background-color: #412a11;
+    color: #fff;
+}
+
+.end p{
+    top: 45px;
+    font-size: 13px;
+    position: relative;
+}
+
+.container{
+    height: 0px;
+}
